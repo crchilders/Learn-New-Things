@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Get a Job</title>
+         
+        <link rel="stylesheet" href="./main.css">
+   
+
+    </head>
+    <body>
+
+        <header>
+            <section>
+                <img alt="we work remotely" id="logo" src="https://du02x8uccjib0.cloudfront.net/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg">
+            </section>
+        </header>
+        <a href="https://weworkremotely.com/remote-jobs/zapier-site-reliability-engineer">Back to all jobs</a>
+        
+        <div>Posted FEB 27</div>
+       
+        <h1>Site Reliablilty Engineer</h1>
+        <div>
+            <span>Full-Time</span>
+            <span>Programming</span>
+            <span>Back End</span>
+            <span>Anywhere!</span>
+        </div>
+
+        <!-- All tags -> "p"
+        Class -. ",italic"
+        ID -> "#welcome"
+        Override -> "!important"
+        -->
+        
+        <p id="welcome" class="text-red italic">Hi There!</p>
+        <p>We are seeking a seasoned Site Reliability Engineer to join our team!   Working with our existing SRE team, you'll improve application reliability by using a software engineering approach to operations. You'll develop internal tools and systems for all engineering teams to use. Using site reliability principles and a robust approach to observability, you will not only fix problems but solve the issues that contributed to them when things go wrong. </p>
+        <strong>Things You'll Do</strong>
+
+            <ul>
+                <li>Develop new methods for retaining task history</li>
+                <li>Migrating applications and services from EC2 to Kubernetes</li>
+                <li>Write custom Kubernetes controllers to improve resilience</li>
+                <li>Create deployment pipelines in ArgoCD</li>
+                <li>Develop autoscaling strategies to handle bursts in workloads</li>
+                <li>Implementing OPA to enforce policies across our Kubernetes Clusters</li>
+                <li>Deploying ProxySQL for pooling connections against MySQL databases</li>
+                <li>Have an enormous impact working closely with teams across the organization. Be an advocate for site reliability principles.</li>
+                <li>As a part of our <a href=https://zapier.com/learn/customer-support/everyone-on-support/>All Hands Support initiative</a>, help customers have the best possible experience with Zapier</li>
+            </ul>
+
+            <h3>About The Job</h3>
+            <p><em>Zapier is an equal opportunity employer. We're excited to work with talented and empathetic people no matter their race, color, gender, sexual orientation, religion, national origin, physical or mental disability, or age. Our code of conduct provides a beacon for the kind of company we strive to be, and we celebrate our differences because those differences are what allow us to make a product that serves a global user base.</em></p>
+
+            <!--
+            HEADER
+            -location
+            -people
+            -phone
+
+            3 rows
+            -->
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>People</th>
+                        <th>Phone</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td>OKC</td>
+                        <td>15</td>
+                        <td>8675309</td>
+                    </tr>
+                    <tr>
+                        <td>NYC</td>
+                        <td>5</td>
+                        <td>8675308</td>
+                    </tr>
+                    <tr>
+                        <td>North Pole</td>
+                        <td>1</td>
+                        <td>809</td>
+                    </tr>
+                </tbody>
+
+            </table>
+    
+
+            <br>
+
+            <!-- FORM -->
+            <h3>Apply Now If Ya Like</h3>
+            <form action="/jobs" method="post">
+                <div>
+                <label for="name">Name</label>
+                <input type="text" id="name" name="user_name">
+                </div> 
+
+                <div>
+                <label for="email">Email</label>
+                <input type="email" id="emal" name="user_email">
+                </div> 
+
+                <div>
+                    <br>
+                    <div><strong>Skills</strong></div>
+                    <label for="skill_frontend">Are you a frontend dev?</label>
+                    <input type="checkbox" id="frontend" name="Front-End" value="Front_End">
+                    
+                    <label for="skill_backend">Are you a backend dev?</label>
+                    <input type="checkbox" id="backend" name="Back-End" value="Back_End">
+                <div>
+                    <br>
+                <button type="submit">Apply</button>
+                <br>
+                </div> 
+                <br>
+                <br>
+    </body>
+
+</html>

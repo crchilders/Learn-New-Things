@@ -1,0 +1,20 @@
+p {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+.italic {
+    font-style: italic;
+} 
+
+.text-red {
+    color: red; 
+}
+
+#welcome {
+    color: green;
+    font-size: 200%;
+}

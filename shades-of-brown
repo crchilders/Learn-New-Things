@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Shades of Brown</title>
+
+    </head>
+
+    <body>
+        <header>
+            <span>HELLO</span>
+            <span>FOOD + DRINK</span>
+            <span>ART</span>
+            <span>CRAFT GOODS</span>
+            <span>OUUR STORY</span>
+            <span>CONTACT</span>
+            <span>
+            <img alt="Shades of Brown" src="http://static1.squarespace.com/static/570809ff2fe131620465b667/t/57082808e32140e265b109d4/1461637794526/?format=1500w" width="400">
+            </span>
+        </header>
+
+        <section>
+            <span>
+                <img alt="Barista" src="https://images.squarespace-cdn.com/content/v1/570809ff2fe131620465b667/1460146760138-4YEPXRLU0HK0QU5RL9LG/ke17ZwdGBToddI8pDm48kP0x04V1XEe0XPzqOX1MKaR7gQa3H78H3Y0txjaiv_0fCm2jZnKwyJSlb-AlLxnEdYhVU6YYtSQ8H7TvSNSjCpWsItIhYBC90LuJaYL0c21FQPoRzxSr1hzN-vPBHt7YyICZBWFoWlQYFgX7zFDZWCtuxMh32DVuubmc9xb0pHG4/IMG_3048.JPG?format=1500w" width="556">
+            </span>
+            <span>
+                <img alt="Latte" src="https://images.squarespace-cdn.com/content/v1/570809ff2fe131620465b667/1460146757559-QWNWMJTGNU63COV8XB2R/ke17ZwdGBToddI8pDm48kP0x04V1XEe0XPzqOX1MKaR7gQa3H78H3Y0txjaiv_0fylIs6t39aXnuxGl3mUYocPK_nQVZgijyDnglvVu8qqpkaOgErLdrOqS7zQLvz2XSD3GJgI7_jN764QbmlaUTk9liCkVOTL0LqI8jUPUC9imU5quWEVlMUVOXcHNDkGHO/IMG_3033.JPG?format=1500w" width="556">
+            </span>
+        </section>
+
+        <section>
+            <span>
+                <img alt="Thank You Notes" src="https://images.squarespace-cdn.com/content/v1/570809ff2fe131620465b667/1460420266360-JZR5KKBYHIZ57DWY22W3/ke17ZwdGBToddI8pDm48kGm_lmxn_JwT7UQFYPwQ7ZxZw-zPPgdn4jUwVcJE1ZvWULTKcsloFGhpbD8VGAmRSUJFbgE-7XRK3dMEBRBhUpwDyXFBaZP4kEbB8dUVfld0AfrqFrx4g-196DxgvbaqjlSrcZo6oZRGBBqWTvf3Wpk/12998771_1013331308704847_3504384197832362424_n.jpg?format=750w" width="556">
+            </span>
+            
+            <span>
+                <img alt="Milk Tea" src="https://images.squarespace-cdn.com/content/v1/570809ff2fe131620465b667/1460146757318-1GAOVO6N1JV9N3VOZFYZ/ke17ZwdGBToddI8pDm48kA1L4YS0cOjGTumMkQevDpZ7gQa3H78H3Y0txjaiv_0fvbklG0cZ21UMsOO4RokMHE_-U88Vz3_ValeR7UJawSNkaOgErLdrOqS7zQLvz2XSJdLpeZW_ttQnjXwTxihzWEX94wvaJ2QQpNjsevOw0MUSdHcag6SMvjjv_uYXFGGK/FullSizeRender.jpg?format=1500w" width="556">
+            </span>
+        </section>
+
+        <section>
+            <span>
+                <img alt="Reading Corner" src="https://images.squarespace-cdn.com/content/v1/570809ff2fe131620465b667/1460420265599-KYL3YCR09DR7XLHPN365/ke17ZwdGBToddI8pDm48kP0x04V1XEe0XPzqOX1MKaR7gQa3H78H3Y0txjaiv_0fypf6lmgoLGWA2VfxjamN-vsVRPymdV527MTt2UIfvoTx5I5ic132wIHzGMCjyroGHy9fWX2TbgcwCD5LYAWJ6aIHfMq-MzouZILfFJ4TRZIAFzpTytpZNLKUBPPIsPlY/12984040_1013240065380638_803543896347425760_o.jpg?format=1500w" width="556">
+            </span>
+            <span>
+                <img alt="Art" src="https://images.squarespace-cdn.com/content/v1/570809ff2fe131620465b667/1460420264820-YYJ8BRPLULQNSC8BZT8K/ke17ZwdGBToddI8pDm48kP0x04V1XEe0XPzqOX1MKaR7gQa3H78H3Y0txjaiv_0fgkxBWjjRb1N_UxbACPPq6gCvjvxRDOQvYnFbaJd85oisItIhYBC90LuJaYL0c21Fo3_5ncHsS_KC884-Z46vJdP4QF9jV1snWn417umxNZdiGgSPjxEQ8XEETCPxtN_R/12998371_1013240062047305_7346963928311494980_o.jpg?format=1500w" width="556">
+            </span>
+        </section>
+
+        <section>
+            <h1>COFFEE SHOP HOURS</h1>
+            <h4>Sun: 8AM - 11PM</h4>
+            <h4>Mon- Thurs: 6:30AM - 11PM</h4>
+            <h4>Fri: 6:30AM - 12AM</h4>
+            <h4>Sat: 7AM - 12AM</h4>
+        </section>
+
+        <section>
+        <!--- Google Map Goes Here -->
+        </section>
+
+        <section>
+            <h4>Website by Vesparza</h4>
+        </section>
+
+
+
+
+
+    </body>
+
+
+
+
+
+</html>

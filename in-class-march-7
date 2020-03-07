@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Layouts</title>
+         
+        <link rel="stylesheet" href="./main.css">
+        <link href="https://fonts.googleapis.com/css?family=Inter:200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+   
+
+    </head>
+    <body>
+        <div>
+            <header>
+                <section>
+                    <nav>
+                        <div class="nav-link-wrapper">
+                            <a href="/home">Home</a>
+                            <a href="/about">About</a>
+                            <a href="/contact">Contact</a>
+                            <a href="/mixtape">Mixtape</a>
+                        </div>
+                    </nav>
+
+                    <div class="main-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus arcu, in pulvinar purus. Proin finibus augue quis lectus vehicula, quis aliquam libero vehicula. Fusce lacus elit, interdum eu odio eget, dignissim mollis ligula. Vestibulum posuere vitae ipsum id pharetra. Sed a eleifend justo. Curabitur faucibus nec ex nec sodales. Praesent sed ex elementum, tincidunt mi vel, semper libero. Nam fermentum sit amet elit eu consectetur. Suspendisse tempus eros ac ligula semper tempor. Vestibulum euismod sollicitudin metus, quis sollicitudin augue consequat pellentesque. Quisque et augue sit amet metus molestie pharetra. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+                        Integer sit amet lorem a est auctor porttitor in vitae tortor. In pellentesque dolor in lacus rhoncus rutrum. Pellentesque aliquam odio et diam convallis ultricies. Etiam diam libero, fermentum eget tortor et, vulputate egestas nibh. Curabitur sit amet purus nec felis elementum pretium. Fusce vel massa porta, consequat nibh eget, cursus mauris. Ut porttitor diam est, ac porta urna porta sit amet. Sed tristique pellentesque velit, sed tempor arcu hendrerit vitae. Etiam sit amet nibh elementum, tristique tellus ac, dictum urna. In consequat vulputate arcu, a semper ipsum aliquam ac. Donec accumsan dapibus mauris id laoreet. Nulla sagittis dui nec hendrerit dignissim. Cras accumsan sodales imperdiet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                        
+                        Phasellus vulputate pharetra sapien et scelerisque. Sed varius luctus aliquam. In blandit urna ac elit iaculis, ut sodales lorem consectetur. Nullam fringilla sollicitudin metus vitae feugiat. Nullam in sem vitae leo lobortis interdum. Curabitur arcu leo, porttitor eget commodo non, porta eu nulla. Morbi scelerisque felis at pellentesque porttitor.
+                        
+                        Curabitur sit amet diam diam. Donec et dictum arcu. Proin neque mi, efficitur ac eros a, tempor mattis mauris. Pellentesque mattis, lorem at consectetur ornare, lacus nisi aliquet orci, eget auctor est purus vitae orci. Fusce non nisi ac nisi iaculis volutpat. Sed accumsan, nunc vitae tincidunt ornare, magna libero molestie lacus, in eleifend nisi magna lobortis magna. Sed nec felis non quam laoreet iaculis sed vitae risus. Donec ut felis sit amet dui placerat dignissim ac quis nibh. Pellentesque nibh lorem, lacinia id congue sit amet, malesuada nec enim. Etiam non nisi rutrum, ornare turpis at, auctor justo. Praesent sit amet eros at velit malesuada ullamcorper ut id arcu. Donec dictum orci nisl, imperdiet ullamcorper nisi vestibulum eget.
+                        
+                        Nulla auctor massa id libero faucibus faucibus. Nam ut neque eu metus ornare imperdiet blandit eget felis. Proin placerat turpis id nulla suscipit ultricies. In hac habitasse platea dictumst. Praesent at massa bibendum, mollis elit eu, pellentesque elit. Etiam convallis maximus odio in convallis. Quisque suscipit velit non laoreet luctus. Aliquam rutrum elementum luctus. Duis eu vestibulum ante, id tempus lectus.</div>
+
+                    <div class="sidebar">sidebar
+                    <ul>
+                        <li>test</li>
+                        <li>test</li>
+                        <li>test</li>
+                    </ul>
+                    </div>
+                </section>
+            </header>
+        </div>
+    </body>
+</html>
+    
